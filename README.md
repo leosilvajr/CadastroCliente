@@ -38,10 +38,10 @@ Siga os passos abaixo para executar a aplicação em sua máquina:
 ## Imagens do Projeto
 
 ### Tela de Listagem de Clientes
-![Lista de Clientes](caminho/para/imagem-lista-clientes.png)
+![Lista de Clientes](https://i.ibb.co/JkR7VB7/Screenshot-2.png)
 
 ### Tela de Cadastro de Clientes
-![Cadastro de Clientes](caminho/para/imagem-cadastro-clientes.png)
+![Cadastro de Clientes](https://i.ibb.co/p0vpkSC/Screenshot-3.png)
 
 ---
 
